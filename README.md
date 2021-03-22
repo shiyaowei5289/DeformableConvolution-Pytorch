@@ -1,6 +1,7 @@
 # PyTorch implementation of Deformable Convolution
  * By Wei OUYANG @ Institut Pasteur
  * Thanks to Felix Lau's Keras/TensorFlow implementation: ~~https://github.com/felixlaumon/deform-conv~~ (https://github.com/kastnerkyle/deform-conv)
+ * This code come from https://blog.csdn.net/qq_34107425/article/details/111415403! 
 
 ### TODO List
  - [x] implement offsets mapping in pytorch
